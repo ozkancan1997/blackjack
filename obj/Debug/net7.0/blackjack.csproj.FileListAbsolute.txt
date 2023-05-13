@@ -1,0 +1,15 @@
+/home/voyager/Code/blackjack/bin/Debug/net7.0/blackjack
+/home/voyager/Code/blackjack/bin/Debug/net7.0/blackjack.deps.json
+/home/voyager/Code/blackjack/bin/Debug/net7.0/blackjack.runtimeconfig.json
+/home/voyager/Code/blackjack/bin/Debug/net7.0/blackjack.dll
+/home/voyager/Code/blackjack/bin/Debug/net7.0/blackjack.pdb
+/home/voyager/Code/blackjack/obj/Debug/net7.0/blackjack.csproj.AssemblyReference.cache
+/home/voyager/Code/blackjack/obj/Debug/net7.0/blackjack.GeneratedMSBuildEditorConfig.editorconfig
+/home/voyager/Code/blackjack/obj/Debug/net7.0/blackjack.AssemblyInfoInputs.cache
+/home/voyager/Code/blackjack/obj/Debug/net7.0/blackjack.AssemblyInfo.cs
+/home/voyager/Code/blackjack/obj/Debug/net7.0/blackjack.csproj.CoreCompileInputs.cache
+/home/voyager/Code/blackjack/obj/Debug/net7.0/blackjack.dll
+/home/voyager/Code/blackjack/obj/Debug/net7.0/refint/blackjack.dll
+/home/voyager/Code/blackjack/obj/Debug/net7.0/blackjack.pdb
+/home/voyager/Code/blackjack/obj/Debug/net7.0/blackjack.genruntimeconfig.cache
+/home/voyager/Code/blackjack/obj/Debug/net7.0/ref/blackjack.dll

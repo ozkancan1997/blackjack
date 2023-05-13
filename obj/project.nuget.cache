@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "NWrRFYVsgWUegXWLzwqYVc0nwdDquAqPoqq5mpsXrkZoUcSCPzAylXlgeCKcVYU/JOSqcWH/DmTQMSQIXkGPOA==",
+  "success": true,
+  "projectFilePath": "/home/voyager/Code/blackjack/blackjack.csproj",
+  "expectedPackageFiles": [
+    "/home/voyager/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.3/microsoft.aspnetcore.app.ref.7.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
